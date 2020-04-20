@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "aAsXUZdwvCSgL3imj4UCC0",
+    "id" : "8SWdXoHhXasieHg9wbQH8y",
     "name" : "MCT_inlineActionDepen",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100080Z000000000002"
+        "repoHandle" : "0100080Z000000000004"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "1u6uGS0n0QBf08ImBZW0UO",
+    "id" : "8aJaZKwhm82dpTv8UjeDaS",
     "name" : "cmd_inlineActionDepen",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000817000000000002"
+        "repoHandle" : "01000817000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -62,7 +62,7 @@
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/InlineActionsProjectDepen"
+    "path" : "/Explore/Default"
   }, {
     "id" : "0qitEwsMuaRl2uQxNci9SF",
     "name" : "FF",
