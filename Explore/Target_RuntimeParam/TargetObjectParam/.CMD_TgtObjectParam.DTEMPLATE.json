@@ -1,22 +1,22 @@
 {
   "objectInfo" : {
-    "id" : "4iV7qePlza3hRp4QPKCQMQ",
-    "name" : "PowerCenterTask22",
-    "type" : "PCS",
+    "id" : "aiDRug1WJYjhD8nyEexWgw",
+    "name" : "CMD_TgtObjectParam",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O0K000000000006"
+        "repoHandle" : "010T1O1700000000000N"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,22 +24,22 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4gCdCM9AMM0fwIIQoCCGkh",
-    "name" : "ip-10-18-64-169",
-    "type" : "AgentGroup",
+    "id" : "jLSjLgEqow3foO5hbvFWAe",
+    "name" : "FlatFile_Conn",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O25000000000004"
+        "repoHandle" : "010T1O0B000000000006"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "connection to test parameter runtime override",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"

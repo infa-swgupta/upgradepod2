@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "6RFXO46illJcvSVU17yZiD",
+    "name" : "CMD_TgtConnParam_RDBMS",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010T1O1700000000000K"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Both SRC and Tgt Connection  are parameterized for RDBMS",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}

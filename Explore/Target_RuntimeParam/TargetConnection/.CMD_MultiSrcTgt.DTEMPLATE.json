@@ -1,31 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "2JotK13QZQSk3tnhlz9tOI",
-    "name" : "MCT_Passthrough",
-    "type" : "MTT",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010T1O0Z0000000000JN"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    }
-  },
-  "dataFileExtension" : "zip",
-  "objectRefs" : [ {
-    "id" : "af1f2ZAt6cuitsmuRsmj4U",
-    "name" : "CMD_Passthrough",
+    "id" : "9z7nzjbUvzBcScGDObxPW2",
+    "name" : "CMD_MultiSrcTgt",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -33,40 +9,21 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O1700000000001I"
+        "repoHandle" : "010T1O1700000000000P"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Both SRC and Tgt Connection and object are parameterized for multiple source and targets",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
-    },
-    "path" : "/Explore/Target_RuntimeParam"
-  }, {
-    "id" : "6U6pqIoLOPkfkzVH1Ku4Sx",
-    "name" : "TMS33RH64001",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010T1O25000000000006"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
     "id" : "jLSjLgEqow3foO5hbvFWAe",
     "name" : "FlatFile_Conn",
     "type" : "Connection",
@@ -81,6 +38,46 @@
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "connection to test parameter runtime override",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "fwlN6ujMEezj18lRphLNG3",
+    "name" : "S8_SQLSERVER2K8",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010T1O0B000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "9VA5eu6d70siTjPnCxtBKr",
+    "name" : "SFTP_Conn_test",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010T1O0B000000000005"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

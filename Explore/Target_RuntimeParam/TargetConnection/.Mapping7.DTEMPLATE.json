@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "2JotK13QZQSk3tnhlz9tOI",
-    "name" : "MCT_Passthrough",
-    "type" : "MTT",
+    "id" : "aek7vUZ8Vt8ht8a3338WmO",
+    "name" : "Mapping7",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O0Z0000000000JN"
+        "repoHandle" : "010T1O1700000000000M"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,45 +24,22 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "af1f2ZAt6cuitsmuRsmj4U",
-    "name" : "CMD_Passthrough",
-    "type" : "DTEMPLATE",
+    "id" : "1nO8OUzTqjQfKBdJJeLTe4",
+    "name" : "FF_TestTmp",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O1700000000001I"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Target_RuntimeParam"
-  }, {
-    "id" : "6U6pqIoLOPkfkzVH1Ku4Sx",
-    "name" : "TMS33RH64001",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010T1O25000000000006"
+        "repoHandle" : "010T1O0B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
