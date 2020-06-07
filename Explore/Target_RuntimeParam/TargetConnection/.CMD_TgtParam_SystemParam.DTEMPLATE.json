@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8AG17iv2x1Sfz31Gb1Io0a",
+    "id" : "f5Tus4CQcWLkmk1rsVnlmj",
     "name" : "CMD_TgtParam_SystemParam",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O1700000000000O"
+        "repoHandle" : "010SSG17000000000008"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "jLSjLgEqow3foO5hbvFWAe",
+    "id" : "7av9dkGNMWyl3T53xnOgoi",
     "name" : "FlatFile_Conn",
     "type" : "Connection",
     "metadata" : {
@@ -33,11 +33,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O0B000000000006"
+        "repoHandle" : "010SSG0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "connection to test parameter runtime override",
+        "description" : "Flat File connection",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
