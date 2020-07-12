@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "7xA4xV1iiz0hMNAwHMVtgD",
+    "name" : "BulkUnlink_FOLDER",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
