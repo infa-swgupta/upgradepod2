@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "13RiLIeNzlYjPpvviFHZcx",
+    "id" : "64eB9PsMBCfdkX5lSh1XsP",
     "name" : "CMD_ConnParam_RDBMS",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SSG17000000000003"
+        "repoHandle" : "01001O17000000000004"
       },
       "contextAttributes" : [ {
         "name" : "id",

@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "8IFPhZl9zSSlsfc2B7QsCS",
+    "name" : "Mapping1",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O1700000000000H"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Augments source data with additional data through a connected Lookup transformation and loads it to an existing target.\n\nThe lookup has its cache option enabled for the most optimal execution performance.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}

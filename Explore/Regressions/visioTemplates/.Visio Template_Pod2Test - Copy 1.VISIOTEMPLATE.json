@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "5EghWFPWMeedFWr1PHjBmW",
+    "name" : "Visio Template_Pod2Test - Copy 1",
+    "type" : "VISIOTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O0V000000000005"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}

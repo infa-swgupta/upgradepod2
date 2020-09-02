@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "0wVcJ4xYGNlbfC1bk1xIyJ",
+    "name" : "VisioT_t_upd_strategy_parameterized",
+    "type" : "VISIOTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O0V000000000003"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}

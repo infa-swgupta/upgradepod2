@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "d7BWTUlYyqFd6ikNzDku0H",
+    "id" : "0MKiqta09sFeM87aZpdEew",
     "name" : "Mapping7",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SSG17000000000009"
+        "repoHandle" : "01001O1700000000000F"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "7av9dkGNMWyl3T53xnOgoi",
-    "name" : "FlatFile_Conn",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010SSG0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Flat File connection",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "31FOtRk6lMVlbxkMvdJCY3",
+    "id" : "aO00XBFS8KMeYrDYLjO809",
     "name" : "FF_TestTmp",
     "type" : "Connection",
     "metadata" : {
@@ -53,11 +33,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SSG0B000000000003"
+        "repoHandle" : "01001O0B000000000007"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "8KSv6WGNjsxciOBnunCuok",
+    "name" : "FlatFile_Conn",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O0B000000000005"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "connection to test parameter runtime override",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }

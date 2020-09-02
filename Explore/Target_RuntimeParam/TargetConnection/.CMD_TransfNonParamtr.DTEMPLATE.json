@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "67QZCq5yfYsiyD8RKLKNOV",
+    "id" : "f6HowifcxOCik6BxQKaYoK",
     "name" : "CMD_TransfNonParamtr",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SSG1700000000000A"
+        "repoHandle" : "01001O1700000000000A"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,27 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "7av9dkGNMWyl3T53xnOgoi",
-    "name" : "FlatFile_Conn",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010SSG0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Flat File connection",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "6NtpEf0aSThf7IXVCpf5OC",
+    "id" : "3IVARzPouMkhxbDEQUiMma",
     "name" : "FlatFile_Conn2",
     "type" : "Connection",
     "metadata" : {
@@ -53,11 +33,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SSG0B000000000007"
+        "repoHandle" : "01001O0B000000000006"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "8KSv6WGNjsxciOBnunCuok",
+    "name" : "FlatFile_Conn",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001O0B000000000005"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "connection to test parameter runtime override",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
