@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "fAKpZzmS6KJcyHdHxjeCqK",
+    "id" : "7DpUKwALqkYdsnrTxmIC88",
     "name" : "MCT_inlineActionDepen2",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0108C00Z000000000004"
+        "repoHandle" : "0100060Z000000000003"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "h3VAYgqpVmDlb6agt4Ci86",
-    "name" : "TMS33RH64001",
+    "id" : "37MkP8jOv00g9rjpvY8DOW",
+    "name" : "ip-10-18-64-169",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0108C025000000000002"
+        "repoHandle" : "01000625000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "5DzIAG2JpQBjTTji7wjXoj",
+    "id" : "bu7rFddV7swfvyIsXTuNs7",
     "name" : "cmd_inlineActionDepen",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -53,9 +53,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0108C017000000000003"
+        "repoHandle" : "01000617000000000002"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Multiple Lookup Condition",
         "contentType" : "JSON",
@@ -64,7 +67,7 @@
     },
     "path" : "/Explore/InlineActionsProjectDepen"
   }, {
-    "id" : "7h1W70hPb6hj0njNeCNySJ",
+    "id" : "eV7ywDhnMQTkUi4MINwwKM",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -73,7 +76,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0108C00B000000000004"
+        "repoHandle" : "0100060B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
