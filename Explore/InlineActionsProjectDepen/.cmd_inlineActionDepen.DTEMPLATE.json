@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "bu7rFddV7swfvyIsXTuNs7",
+    "id" : "5eIh9MYUW3NlTIm1atSiUN",
     "name" : "cmd_inlineActionDepen",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000617000000000002"
+        "repoHandle" : "010SSI1700000000002G"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "eV7ywDhnMQTkUi4MINwwKM",
-    "name" : "FF",
+    "id" : "5ytiL0e1qHoe0S0QMdPOya",
+    "name" : "ff",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,11 +33,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100060B000000000003"
+        "repoHandle" : "010SSI0B00000000000J"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
