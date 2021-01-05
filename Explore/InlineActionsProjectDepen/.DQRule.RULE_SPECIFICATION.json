@@ -1,19 +1,21 @@
 {
   "objectInfo" : {
-    "id" : "2O7vQhlsWoycuak8QV2wwH",
-    "name" : "InlineActionsProjectDepen",
-    "type" : "Project",
+    "id" : "bealo1KdBMKjPF6Z1Z7CSZ",
+    "name" : "DQRule",
+    "type" : "RULE_SPECIFICATION",
     "metadata" : {
       "modelVersion" : {
-        "major" : 0,
+        "major" : 1,
         "minor" : 0
       },
-      "repoInfo" : null,
+      "repoInfo" : {
+        "repoHandle" : "bealo1KdBMKjPF6Z1Z7CSZ"
+      },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : null,
         "contentType" : "Binary",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     }
   },
