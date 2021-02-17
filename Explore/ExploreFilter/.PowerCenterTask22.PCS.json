@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4iV7qePlza3hRp4QPKCQMQ",
+    "id" : "dcVqvcdIpCHby6LuStFteg",
     "name" : "PowerCenterTask22",
     "type" : "PCS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O0K000000000006"
+        "repoHandle" : "0108C00K000000000003"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4gCdCM9AMM0fwIIQoCCGkh",
-    "name" : "ip-10-18-64-169",
+    "id" : "h3VAYgqpVmDlb6agt4Ci86",
+    "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010T1O25000000000004"
+        "repoHandle" : "0108C025000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
